@@ -1,0 +1,1 @@
+default:\n  data_path: ./data\n  reports_path: ./reports

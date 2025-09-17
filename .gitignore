@@ -1,0 +1,1 @@
+*.pyc\n__pycache__/\n.env\ndata/\n*.ipynb_checkpoints/
